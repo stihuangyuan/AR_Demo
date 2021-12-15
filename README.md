@@ -14,7 +14,7 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 </center> -->
 
 <p align="center">
-  <img src="img/long.gif" height="345">
+  <img src="img/long.gif" height="345" hspace="100">
   <img src="img/有一点标志物.gif" height="345" title="2011212_opnav_02333">
 </p>
 
@@ -35,8 +35,8 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 </p> -->
 
 <p align="center">
-  <img src="img/tonghua.gif" height="300" title="2011212_opnav_022">
-  <img src="img/doorframe.gif" height="300">
+  <img src="img/doorframe.gif" height="400" hspace="100" title="2011212_opnav_022">
+  <img src="img/tonghua.gif" height="400">
 </p>
 
 ### 3、针对地标建筑打卡玩法  
