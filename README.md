@@ -14,7 +14,7 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 </center> -->
 <p align="center">
   <img src="img/有一点标志物.gif" height="345" title="2011212_opnav_022">
-  <img src="img/30m.gif" height="345">
+  <img src="img/long.gif" width="160" height="345">
 </p>
 
 ### 2、空间任意场景玩法  
