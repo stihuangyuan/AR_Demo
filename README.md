@@ -12,10 +12,15 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 <img height=300 width=150 src=demo/有一点标志物.gif alt="show" />
 <img height=300 width=150 src=demo/30m.gif alt="show" />
 </center> -->
+
 <p align="center">
-  <img src="img/有一点标志物.gif" height="345" title="2011212_opnav_022">
-  <img src="img/long.gif" width="160" height="345">
+  <img src="img/long.gif" height="345">
+  <img src="img/有一点标志物.gif" height="345" title="2011212_opnav_02333">
 </p>
+
+<!-- <div align="center">
+  <img src="img/long.gif"/>
+</div> -->
 
 ### 2、空间任意场景玩法  
 这种玩法对环境没有特征要求，用户可随意移动，相对于第一种玩法移动距离更远，达到几十米甚至上百米。点击放置虚拟物体可在某个平面上(比如地面)，或者悬浮空中，对大场景远距离移动定位精度要求较高。  
@@ -23,9 +28,15 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 <img height=150 width=300 src=demo/6dof2.gif alt="show" />
 <img height=300 width=160 src=demo/6dof1.gif alt="show" />
 </center> -->
-<p align="center">
+
+<!-- <p align="center">
   <img src="img/6dof2.gif" height="150" title="2011212_opnav_022">
   <img src="img/6dof1.gif" height="300">
+</p> -->
+
+<p align="center">
+  <img src="img/tonghua.gif" height="300" title="2011212_opnav_022">
+  <img src="img/doorframe.gif" height="300">
 </p>
 
 ### 3、针对地标建筑打卡玩法  
