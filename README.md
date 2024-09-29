@@ -9,19 +9,9 @@ slam算法可以实时30fps/60fps估计每帧相机的pose，同时提取出环�
 ### 1、平面玩法  
 这种玩法针对场景一个单纯大平面，用户要求启动能够马上点击、而且点击位置必须在平面上。一般用户移动距离不会太大，比如办公桌附近。  
 如下地心飞龙、门面andy。
-<!-- <center class="half">
-<img height=300 width=150 src=demo/有一点标志物.gif alt="show" />
-<img height=300 width=150 src=demo/30m.gif alt="show" />
-</center> -->
 
-<p align="center">
-  <img src="img/long.gif" height="345" hspace="100">
-  <img src="img/有一点标志物.gif" height="345" title="2011212_opnav_02333">
-</p>
+![image](img/long.gif)
 
-<!-- <div align="center">
-  <img src="img/long.gif"/>
-</div> -->
 
 ### 2、空间任意场景玩法  
 这种玩法对环境没有特征要求，用户可随意移动，相对于第一种玩法移动距离更远，达到几十米甚至上百米。点击放置虚拟物体可在某个平面上(比如地面)，或者悬浮空中，对大场景远距离移动定位精度要求较高。  
